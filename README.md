@@ -10,5 +10,5 @@ Representational Similarity Analysis (RSA) is a method from neuroscience used to
 
 Provided notebooks are structured to be as independent as possible, but most of them make use of a set of trained models. This is done in the script ``rsa_on_fashionmnist.ipynb``, which is to be run first, as it includes model training and calculating RDMs for RSA on FashionMNIST. To avoid training, we provide model saves: [MLP saves](https://drive.google.com/open?id=11BX3eCNumSSpDqHBHCtyt5YAovqMcvBc), [CNN saves](https://drive.google.com/open?id=1yNRf0NAYb2fFJZFHRvAxcVSeS0XzgIED). To use them, follow the instructions in the script.
 
-As to other notebooks, we tried making their names descriptive of the content. 
+For the other notebooks, we tried making their names descriptive of the content. 
 If something's not clear, feel free to raise questions in the Issues.
